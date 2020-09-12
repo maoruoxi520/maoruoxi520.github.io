@@ -1,6 +1,5 @@
 # maoruoxi520.github.io
 ddd
-# SKY81192.github.io
 ##이름: 손열혼
 ##학번: 2020078095
 ```flow
