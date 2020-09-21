@@ -1,7 +1,7 @@
 # maoruoxi520.github.io
 ddd
-##이름: 손열혼
-##학번: 2020078095
+## 이름: 손열혼
+## 학번: 2020078095
 ```flow
 st=>start: 인생행로
 op=>operation: 고용선택
